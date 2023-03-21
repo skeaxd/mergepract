@@ -4,4 +4,3 @@ Hello()
 
 def Hello_day():
     print('Добрый день')
-Hello_day()
