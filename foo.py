@@ -5,3 +5,7 @@ Hello()
 def Hello_day():
     print('Добрый день')
 Hello_day()
+
+def Hello_evening():
+    print('Добрый Вечер')
+Hello_evening()
