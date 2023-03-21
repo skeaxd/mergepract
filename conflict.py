@@ -1,4 +1,3 @@
-def test():
-    print('test')
-
-test()
+def conflict():
+    print("Был вызван конфликт")
+conflict()
